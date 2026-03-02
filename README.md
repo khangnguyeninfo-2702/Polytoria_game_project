@@ -1,4 +1,4 @@
-# 🧟 Shopkeep's Stand | Polytoria Project
+# 🧟 Last one standing | Polytoria Project
 
 [![Platform: Polytoria](https://img.shields.io/badge/Platform-Polytoria-blue)](https://polytoria.com)
 [![Language: Lua](https://img.shields.io/badge/Language-Lua-green)](https://polytoria.com/docs/api)
@@ -31,10 +31,15 @@ Success depends on how you spend your **Perk Points**. Players can specialize in
 
 ## 🚀 Roadmap
 - [x] Core Concept & Design Document
-- [ ] Base AI Navigation & Zombie Logic
-- [ ] Perk & Leveling System Implementation
-- [ ] Shop Defense Mechanics (Breakable Walls/Shutters)
-- [ ] Alpha Release on Polytoria
+- [x] Base AI Navigation & Zombie Logic
+- [x] Perk & Leveling System Implementation
+- [x] Shop Defense Mechanics (Breakable Walls/Shutters)
+- [x] Alpha Release on Polytoria
+- [ ] Special effects for guns
+- [ ] Rocket launchers
+- [ ] New maps!
+- [ ] New zombies!
+- [ ] Voting map system
 
 ---
 
