@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Last one standing | Polytoria Project
-=======
-# 🧟 Last one standing | Polytoria Project
->>>>>>> fe735789cc3ffa80fd88a219ce3bcc116ed13268
 
 [![Platform: Polytoria](https://img.shields.io/badge/Platform-Polytoria-blue)](https://polytoria.com)
 [![Language: Lua](https://img.shields.io/badge/Language-Lua-green)](https://polytoria.com/docs/api)
