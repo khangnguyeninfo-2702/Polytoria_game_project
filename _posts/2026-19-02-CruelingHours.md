@@ -5,7 +5,7 @@ date: 2026-02-20
 categories: [polytoria, programming, networking, game-design]
 ---
 
-## 🔫 The "Invisible Gun" Crisis
+## The "Invisible Gun" Crisis
 
 On February 20th, I finally overcame the most grueling technical hurdle of my project so far: **The Networking Authority Wall**. For an entire day, I was stuck in a loop where my shop system would "successfully" purchase a gun, print all the right messages, and deduct the coins—but the gun itself was a total ghost. It existed in the code, but it didn't exist in the world.
 
@@ -15,7 +15,7 @@ On February 20th, I finally overcame the most grueling technical hurdle of my pr
 
 ---
 
-## 💡 The Technology: Server vs. Client Authority
+## The Technology: Server vs. Client Authority
 
 This challenge forced me to dive deep into how game engines handle "The Source of Truth." I spent hours asking for help on Discord, but eventually, I had to roll up my sleeves and experiment. I learned that cloning an object isn't just about making a copy; it's about *who* makes the copy and *where* it lives.
 
@@ -26,7 +26,7 @@ This challenge forced me to dive deep into how game engines handle "The Source o
 
 ---
 
-## ⚙️ Development Challenges and Solutions
+## Development Challenges and Solutions
 
 I went through a dozen iterations, including a 2-hour stint where I rewrote the entire system to be local-only just to test the logic, before realizing the architecture itself was the problem.
 

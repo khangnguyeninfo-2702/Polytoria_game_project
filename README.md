@@ -1,4 +1,4 @@
-# 🧟 Shopkeep's Stand | Polytoria Project
+# Last one standing | Polytoria Project
 
 [![Platform: Polytoria](https://img.shields.io/badge/Platform-Polytoria-blue)](https://polytoria.com)
 [![Language: Lua](https://img.shields.io/badge/Language-Lua-green)](https://polytoria.com/docs/api)
@@ -8,18 +8,18 @@ A fast-paced, high-intensity zombie survival game built from the ground up on **
 
 ---
 
-## 🎯 The Vision
-Most zombie games focus purely on individual survival. **Shopkeep's Stand** shifts the focus to **Objective Defense**. 
+## The Vision
+Most zombie games focus purely on individual survival. **Last one standing** shifts the focus to **Objective Defense**. 
 * **The Mission:** Protect the Shop. If the shutters fall, the game is over.
 * **The Philosophy:** Shorter match lengths, higher stakes, and deep character customization.
 
-## 🛠️ From Roblox to Polytoria
+## From Roblox to Polytoria
 This project marks a transition in engines. By moving to Polytoria, I am focusing on:
 - **Streamlined Mechanics:** Removing "bloat" from the original Roblox version to keep the combat snappy.
 - **Enhanced Class Systems:** Leveraging Polytoria’s scripting API to create more distinct player roles.
 - **Community-Centric Design:** Building a game specifically tailored to the Polytoria ecosystem.
 
-## 🎭 Character Builds & Roles
+## Character Builds & Roles
 Success depends on how you spend your **Perk Points**. Players can specialize into distinct roles:
 
 | Role | Playstyle | Key Feature |
@@ -29,7 +29,7 @@ Success depends on how you spend your **Perk Points**. Players can specialize in
 | **The Glass Cannon** | High Risk / High Reward | Extreme damage, but dies in 1-2 hits. |
 | **The Gearhead** | Utility / Support | Buffs teammates and repairs the shop. |
 
-## 🚀 Roadmap
+## Roadmap
 - [x] Core Concept & Design Document
 - [ ] Base AI Navigation & Zombie Logic
 - [ ] Perk & Leveling System Implementation
